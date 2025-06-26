@@ -12,8 +12,8 @@ TalentScout is an AI-powered hiring assistant designed to streamline the candida
 
 ## Demo
 
-[> _demo here if available._
-](https://drive.google.com/file/d/14siMLsnmTsw-s27biKOWae1mMtObS2_j/view?usp=sharing)
+[> _Live Demo._
+](https://talent-scout-ai-powered-hiring-assi.vercel.app/)
 ## Getting Started
 
 ### Prerequisites
